@@ -1,0 +1,6 @@
+{
+  "name": "VS Code Web + Kilo Code AI (Colab Edition)",
+  "description": "Professional VS Code IDE for Desktop & Mobile with real-time editing, Google Colab integration, multi-theme support, and Kilo Code AI assistant for editing and generating code.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
